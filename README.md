@@ -14,7 +14,7 @@ By following this project, you will learn:
 
 ## 3. How do I get started?
 1. Go to rasppi server
-2. Install python module (twython)
+2. Install python module
 ```pip install twython```
 3. Create a Twitter account at [Twitter](twitter.com)
 4. Apply for a developer account at [Developer](developer.twitter.com)
