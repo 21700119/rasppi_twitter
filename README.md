@@ -1,4 +1,5 @@
 # rasppi_twitter
+![Alt text](/Users/suhyunkim/Desktop/twitter.png)
 ## 1. What does this project do? 
 
 This is a project which can send and receive tweets using python and Raspberry Pi.
