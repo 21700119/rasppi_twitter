@@ -1,7 +1,7 @@
 # rasppi_twitter
 ## 1. What does this project do? 
 
-This is a project which can send and receive tweets using python.
+This is a project which can send and receive tweets using python and raspberrypi
 
 ## 2. Why is this project useful? 
 
