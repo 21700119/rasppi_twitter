@@ -1,5 +1,5 @@
 # rasppi_twitter
-<img src="/Users/suhyunkim/Desktop/twitter.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://upload.wikimedia.org/wikipedia/ko/thumb/9/9e/%ED%8A%B8%EC%9C%84%ED%84%B0_%EB%A1%9C%EA%B3%A0_%282012%29.svg/1200px-%ED%8A%B8%EC%9C%84%ED%84%B0_%EB%A1%9C%EA%B3%A0_%282012%29.svg.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 ## 1. What does this project do? 
 
 This is a project which can send and receive tweets using python and Raspberry Pi.
