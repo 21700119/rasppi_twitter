@@ -1,9 +1,9 @@
 # rasppi_twitter
-### 1. What does this project do? 
+## 1. What does this project do? 
 
 This is a project which can send and receive tweets using python.
 
-### 2. Why is this project useful? 
+## 2. Why is this project useful? 
 
 By following this project, you will learn:
 - How to create Twitter API keys to use in an application
