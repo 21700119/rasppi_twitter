@@ -16,7 +16,7 @@ By following this project, you will learn:
 ```pip install twython```
 3. Create a Twitter account at [Twitter](twitter.com)
 4. Apply for a developer account at [Developer](developer.twitter.com)
-  Apply > Apply for a developer account
+   : Apply > Apply for a developer account
 5. Go to [Developer](developer.twitter.com), select Apps from the menu, and click on the Create an app button.
 6. Complete the application details form. You must enter an app name, description, website (this can be https://www.raspberrypi.org)
 7. Click on the Keys and tokens tab to view your keys and access tokens.
