@@ -20,6 +20,7 @@ http://raspi.tv/raspitweets
 
 ## 5. contents
 With these scripts you should be able to:
+- auth.py - 
 - twitter.py - send a tweet from python
 - tweet.py - send a tweet you want from python
 - twitter_img.py - tweet a picture
