@@ -10,15 +10,15 @@ By following this project, you will learn:
 - How to use Twython to send tweets using Python
 - How to upload images to Twitter using Twython
 
-### 3. How do I get started?
+## 3. How do I get started?
 
 
-### 4. Where can I get more help, if I need it?
+## 4. Where can I get more help, if I need it?
 https://projects.raspberrypi.org/en/projects/getting-started-with-the-twitter-api/1
 
 http://raspi.tv/raspitweets 
 
-### 5. contents
+## 5. contents
 With these scripts you should be able to:
 - twitter.py - send a tweet from python
 - tweet.py - send a tweet you want from python
