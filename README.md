@@ -4,7 +4,7 @@
 This is a project which can send and receive tweets using python program.
 
 ### 2. Why is this project useful? 
-<hr>
+
 By following this project, you will learn:
 - How to create Twitter API keys to use in an application
 - How to use Twython to send tweets using Python
