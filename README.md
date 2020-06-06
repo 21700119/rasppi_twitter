@@ -26,9 +26,9 @@ By following this project, you will learn:
 9. You should now see your Consumer API key, Consumer API secret key, Access token, and Access token secret. You need these four keys to connect to your Twitter account from your Python program.
 10. Now you have your API key, you’re ready to send a tweet from Python and Raspberry Pi
 11. Create a new file and paste your API keys from [Apps](https://developer.twitter.com/en/apps) into variables named **auth.py**
-12. Create a new file named **twitter.py** to send a tweet
-13. Create a new file named **tweet.py** to send a tweet you want
-14. Create a new file named **twitter_img.py** to tweet a picture
+12. Create a new file named **twitter.py** to send a tweet and type ```python twitter.py``` 
+13. Create a new file named **tweet.py** to send a tweet you want and type ```python tweet.py "_text_"```
+14. Create a new file named **twitter_img.py** to tweet a picture and type ```python twitter_img.py```
 15. Test it with the attached code.
 
 ## 4. Where can I get more help, if I need it?
