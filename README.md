@@ -15,14 +15,13 @@ By following this project, you will learn:
 
 ### 4. Where can I get more help, if I need it?
 https://projects.raspberrypi.org/en/projects/getting-started-with-the-twitter-api/1
+
 http://raspi.tv/raspitweets 
 
 ### 5. contents
-With these scripts you should be able to...
-twitterwin.py - pick a random winner from your followers
-tweet.py - send a text tweet
-tweet2.py - tweet system information from your Pi
-tweetpic.py - take and tweet a photo using Pi an Picam
-tweetpic6BLOG.py - take photo, overlay text and graphics, and tweet it
+With these scripts you should be able to:
+- twitter.py - send a tweet from python
+- tweet.py - send a tweet you want from python
+- twitter_img.py - tweet a picture
 
 Have fun tweeting from your Raspberry Pi :]
