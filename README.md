@@ -1,10 +1,10 @@
 # rasppi_twitter
-#### What does this project do? 
----
+#### 1. What does this project do? 
+--
 
-#### Why is this project useful? 
+#### 2. Why is this project useful? 
 
-#### How do I get started?
+#### 3. How do I get started?
 
 
-#### Where can I get more help, if I need it?
+#### 4. Where can I get more help, if I need it?
