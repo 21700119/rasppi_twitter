@@ -13,8 +13,8 @@ By following this project, you will learn:
 - How to upload images to Twitter using Twython
 
 ## 3. How do I get started?
-1. go to rasppi server
-2. install python module (twython)
+1. Go to rasppi server
+2. Install python module (twython)
 ```pip install twython```
 3. Create a Twitter account at [Twitter](twitter.com)
 4. Apply for a developer account at [Developer](developer.twitter.com)
@@ -25,7 +25,7 @@ By following this project, you will learn:
 8. Click on the Create button under Access token & access token secret.
 9. You should now see your Consumer API key, Consumer API secret key, Access token, and Access token secret. You need these four keys to connect to your Twitter account from your Python program.
 10. Now you have your API key, you’re ready to send a tweet from Python and Raspberry Pi
-11. Test it with the attached code.
+11. Test it with the attached code at the rasppi server
 
 ## 4. Where can I get more help, if I need it?
 https://projects.raspberrypi.org/en/projects/getting-started-with-the-twitter-api/1
