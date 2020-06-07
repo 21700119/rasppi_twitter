@@ -14,11 +14,11 @@ By following this project, you will learn:
 
 ## 3. How do I get started?
 1. Go to rasppi server
-2. Install python module :
-```pip install twython```
+2. Install python module 
+<br/>: ```pip install twython```
 3. Create a Twitter account at [Twitter](https://twitter.com/home)
 4. Apply for a developer account at [Developer](https://developer.twitter.com/en)
-   : Apply > Apply for a developer account
+<br/>: Apply > Apply for a developer account
 5. Go to [Developer](https://developer.twitter.com/en), select Apps from the menu, and click on the Create an app button.
 6. Complete the application details form. You must enter an app name, description, website (this can be https://www.raspberrypi.org)
 7. Click on the Keys and tokens tab to view your keys and access tokens.
