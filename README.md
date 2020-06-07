@@ -29,6 +29,7 @@ By following this project, you will learn:
 12. Create a new file named **twitter.py** to send a tweet and type ```python twitter.py``` 
 13. Create a new file named **tweet.py** to send a tweet you want and type ```python tweet.py "_text_"```
 14. Create a new file named **twitter_img.py** to tweet a picture and type ```python twitter_img.py```
+<br/>:i'm already uploaded my image file to the server uisng 'FileZilla'
 15. Test it with the attached code.
 
 ## 4. Where can I get more help, if I need it?
