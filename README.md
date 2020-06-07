@@ -1,6 +1,6 @@
 # rasppi_twitter
 <img src="https://dnddnjs.gitbooks.io/drone-autonomous-flight/content/9df0c8c036c4a8b0f1ed06834f783b88.png" width="20%" height="20%" title="px(픽셀) 크기 설정" alt="rasppi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</img><img src="https://lh3.googleusercontent.com/proxy/gqel-dzYteoTJXMrhpatYyR7oUK42zroQaxgaCbnBlwRYL5j97T8dj4hp0gMamKoJxc44u6e0MN2rIdmOIsmcnQtrlBdkIuSEf_CmQFSQ8pPRvidofiHHUP7TwqdIWmhr8SGJcW5Wx1X6fH_apX5eNY9jZnDPUWHB6FKsBf7IE2qUpqSXaPQK11IMttzftgBwN05AWK95PYybnCuHoJqY-UcXw0r1XZ7ynkmLHoFD5SH50E-nDEEZYfD3tlA1zcrSsx28WLrr1IWk-0iEeNnEbmGSmF0-4lpfg9w4vigHcWH8hC7fv7FSdY" width="20%" height="20%" title="px(픽셀) 크기 설정" alt="twitter"></img>
+</img><img src="https://upload.wikimedia.org/wikipedia/ko/thumb/9/9e/%ED%8A%B8%EC%9C%84%ED%84%B0_%EB%A1%9C%EA%B3%A0_%282012%29.svg/1200px-%ED%8A%B8%EC%9C%84%ED%84%B0_%EB%A1%9C%EA%B3%A0_%282012%29.svg.pngY" width="20%" height="20%" title="px(픽셀) 크기 설정" alt="twitter"></img>
 ## 1. What does this project do? 
 
 This is a project which can send and receive tweets using python and Raspberry Pi.
