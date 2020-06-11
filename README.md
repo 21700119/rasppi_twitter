@@ -47,3 +47,6 @@ With these scripts you should be able to:
 - twitter_img.py - tweet a picture
 
 Have fun tweeting from your Raspberry Pi :]
+
+## 6. Video
+📽 https://www.youtube.com/watch?v=7yIkMmKHzmM
