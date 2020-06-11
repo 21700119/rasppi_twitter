@@ -39,7 +39,7 @@ http://raspi.tv/raspitweets
 
 http://makeshare.org/bbs/board.php?bo_table=raspberrypi&wr_id=39
 
-## 5. contents
+## 5. Contents
 With these scripts you should be able to:
 - auth.py - store Twitter API keys
 - twitter.py - send a tweet from python
@@ -49,4 +49,4 @@ With these scripts you should be able to:
 Have fun tweeting from your Raspberry Pi :]
 
 ## 6. Video
-📽 https://www.youtube.com/watch?v=7yIkMmKHzmM
+📹 https://www.youtube.com/watch?v=7yIkMmKHzmM
