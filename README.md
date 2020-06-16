@@ -50,3 +50,10 @@ Have fun tweeting from your Raspberry Pi :]
 
 ## 6. Video
 📹 https://www.youtube.com/watch?v=7yIkMmKHzmM
+
+## 7. Source
+https://projects.raspberrypi.org/en/projects/getting-started-with-the-twitter-api/1
+
+## 8. Newly Added Job
+I have implemented the function to send the text that i want at tweet.py.
+
